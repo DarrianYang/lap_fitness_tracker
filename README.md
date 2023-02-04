@@ -1,6 +1,6 @@
 # lap_fitness_tracker
 
-A new Flutter project.
+A new Flutter project to practice flutter.
 
 ## Getting Started
 
